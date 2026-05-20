@@ -18,12 +18,12 @@ Game save best wave to ```application folder```
 - You must install ```.NET 6.0``` or above to run this project
 - Clone this repository using:
 ```
-git clone https://github.com/Kamil-Kijak/spaceshoot.git
+git clone https://github.com/kkamildev/spaceshoot.git
 ```
 - Enter to cloned folder and run this project using:
 ```
 dotnet run
 ```
 ## 👦 Authors:
-- Kamil Kijak ```(solo developer)```
+- Kkamildev ```(solo developer)```
 ## This project is protected using MIT license
